@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FlorianNaef
 - 👀 I’m interested in computer stuff
 - 🌱 I’m currently learning all sorts of things
-- 💞️ I’m looking forward to learning with you
 - 📫 How to reach me florian.naef@protonmail.com
 
 <!---
